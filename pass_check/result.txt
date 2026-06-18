@@ -1,0 +1,10 @@
+Password Analysis Report
+=======================
+
+Password length: 15
+Contains uppercase: True
+Contains lowercase: True
+Contains numbers: True
+Contains special characters: True
+
+Final Result: Strong Password 
